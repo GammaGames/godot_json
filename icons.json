@@ -1,0 +1,14 @@
+[
+    {
+        "icon": "res://img/icon.png",
+        "label": "Foo"
+    },
+    {
+        "icon": "res://img/icon2.png",
+        "label": "Bar"
+    },
+    {
+        "icon": "res://img/icon3.png",
+        "label": "Oof owie"
+    }
+]

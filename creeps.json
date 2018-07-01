@@ -1,0 +1,32 @@
+[
+    {
+        "sprite": "res://img/icon.png",
+        "x": 128,
+        "y": 128
+    },
+    {
+        "sprite": "res://img/icon2.png",
+        "x": 256,
+        "y": 128
+    },
+    {
+        "sprite": "res://img/icon3.png",
+        "x": 512,
+        "y": 256
+    },
+    {
+        "sprite": "res://img/icon.png",
+        "x": 256,
+        "y": 512
+    },
+    {
+        "sprite": "res://img/icon2.png",
+        "x": 768,
+        "y": 640
+    },
+    {
+        "sprite": "res://img/icon3.png",
+        "x": 128,
+        "y": 256
+    }
+]
